@@ -1,0 +1,58 @@
+body {
+  width: 1024px;
+}
+
+.header {
+  background: url(petbanner.jpg);
+  text-align: center;
+  color: white;
+}
+
+.about {
+  font-size: 18px;
+}
+
+img {
+  width: 70%;
+}
+
+.product.first {
+  width: 30%;
+  text-align: center;
+}
+
+.product {
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+}
+
+.product.last {
+  width: 30%;
+}
+
+.main {
+  font-size: 20px;
+}
+
+.location {
+  background-color: orange;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+}
+
+.footer {
+  background-color: rgb(232, 14, 68);
+  color: white;
+  text-align: center;
+  display: inline-block;
+}
+
+.footer-section.footer-orders {
+  font-size: 18px;
+}
+
+.footer-section.footer-about {
+  font-size: 18px;
+}
